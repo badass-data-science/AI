@@ -1,4 +1,6 @@
-The following contains my experiments with using CLIPS to create expert systems:
+The following contains my experiments with using CLIPS to create expert systems.
+
+The content below is LLM-generated:
 
 # What Is CLIPS?
 
