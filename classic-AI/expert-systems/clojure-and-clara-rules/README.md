@@ -1,3 +1,5 @@
+The following is LLM-generated:
+
 # Clara Rules in Clojure
 
 Clara Rules is a forward-chaining rules engine for Clojure and ClojureScript. It lets you represent domain knowledge as small, independent rules, insert facts into a working memory, and then fire rules that match those facts.
