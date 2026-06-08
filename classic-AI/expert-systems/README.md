@@ -3,6 +3,8 @@ This directory contains my experiments with expert systems, using two languages:
 * CLIPS - The classic expert system programming language
 * Clara Rules - Expert system rules expressed in Clojure code
 
+The content below is LLM-generated:
+
 # What Is an Expert System?
 
 An expert system is a computer program that uses rules, facts, and logical reasoning to solve problems or make recommendations in a specific subject area.
