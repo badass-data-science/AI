@@ -1,4 +1,4 @@
-The following is LLM-generated:
+The following README is LLM-generated:
 
 # Purse Recommendation Expert System
 
