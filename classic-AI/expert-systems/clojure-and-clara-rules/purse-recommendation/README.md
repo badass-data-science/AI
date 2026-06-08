@@ -1,4 +1,10 @@
-The following README is LLM-generated:
+An expert system expermiment that recommends purses to customers based on customer traits.
+
+Example output:
+
+![Example output](output.png)
+
+The content below is LLM-generated:
 
 # Purse Recommendation Expert System
 
